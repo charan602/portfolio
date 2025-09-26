@@ -109,7 +109,7 @@ const App = () => {
             <button className="nav-button" onClick={() => handleScrollTo('contact')}>Contact</button>
           </nav>
           <button onClick={toggleMenu} className="header-menu-button">
-            {isMenuOpen ? <X size={28} /> : <Menu size={28} />}
+            {isMenuOpen? <X size={28} /> : <Menu size={28} />}
           </button>
         </div>
         {/* Mobile Menu */}
@@ -141,9 +141,6 @@ const App = () => {
           <div className="hero-buttons">
             <a href="#projects" className="button button-primary">
               View Projects
-            </a>
-            <a href={personalInfo.resumeUrl} download="Vallabha_Sai_Charan_Resume" className="button button-secondary">
-              <FileText size={20} className="icon-margin" /> Download Resume
             </a>
           </div>
           <div className="hero-socials">
