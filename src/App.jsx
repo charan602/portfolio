@@ -15,7 +15,7 @@ const App = () => {
   };
 
   const skills = {
-    'Programming Languages': ['Python', 'Java', 'JavaScript', 'SQL'],
+    'Programming Languages': ['Python', 'Java', 'JavaScript', 'SQL', 'TypeScript'],
     'Frontend': ['React.js', 'HTML', 'CSS'],
     'Backend': ['Node.js', 'Servlets'],
     'Databases': ['SQL'],
