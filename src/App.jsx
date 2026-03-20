@@ -10,7 +10,7 @@ const App = () => {
     email: 'vallabhasaicharan2000@gmail.com',
     phone: '7337214592',
     github: 'https://github.com/charan602',
-    linkedin: 'https://www.linkedin.com/in/vallabha-sai-charan-b761a5375/',
+    linkedin: 'https://www.linkedin.com/in/vallabha-sai-charan-b070923b3/',
     resumeUrl: '/Resume.pdf',
   };
 
